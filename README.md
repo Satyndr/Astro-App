@@ -3,7 +3,7 @@
 A comprehensive astrology mobile application built with React Native and Expo Router, offering personalized astrological consultations, daily horoscopes, and spiritual guidance.
 
 <div style="display: flex; flex-direction: 'row'; justify-content: 'center'">
-<img src="./assets/images/icon.png" width=30%>
+<img src="./assets/images/icon.png" width=10%>
 </div>
 
 ## 📱 Features
