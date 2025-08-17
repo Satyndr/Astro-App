@@ -182,7 +182,7 @@ astro_app/
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Satyndr/Astro-App.git
    cd astro_app
    ```
 
